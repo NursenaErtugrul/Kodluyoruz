@@ -1,0 +1,1 @@
+![ödev resim](https://github.com/NursenaErtugrul/Kodluyoruz/blob/main/Kodluyoruz%20HTML%20%C3%96dev-2/Screenshot%20of%20Assignment%202.jpg)
