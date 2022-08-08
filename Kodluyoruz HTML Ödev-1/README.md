@@ -1,0 +1,1 @@
+![Ödev 1 Resim](https://github.com/NursenaErtugrul/Kodluyoruz/blob/main/Kodluyoruz%20HTML%20%C3%96dev-1/HW.jpg)
