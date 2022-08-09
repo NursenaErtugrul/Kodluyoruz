@@ -1,0 +1,1 @@
+![Tarif resmi](img/readme-picture.jpg)
