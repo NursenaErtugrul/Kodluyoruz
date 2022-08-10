@@ -1,0 +1,55 @@
+body{
+    background-color: #E0D8B0;
+}
+.baslik{
+    background-color:#FCFFE7;
+    color:#CE9461;
+    font-size:40px;
+}
+.baslik2{
+    background-color:#FCFFE7;
+    color:#CE9461; 
+}
+.baslik3{
+    background-color:#FCFFE7;
+    color:#CE9461; 
+}
+.baslik4{
+    background-color:#FCFFE7;
+    color:#CE9461; 
+}
+.baslik5{
+    background-color:#FCFFE7;
+    color:#CE9461; 
+}
+.menu{
+    font-size: larger;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+#giris{
+    font-size: 20px;
+    font-family: 'Lora', serif;   
+}
+.cate-list{
+    list-style-position:inside;
+    margin-left: 15cm;
+}
+#pict{
+    margin-top: 1.4cm;
+    margin-left: 13cm;
+}
+
+.metin{
+    font-family: 'Lora', serif; 
+    font-size: 17px;
+    font-weight:bold; 
+}
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+table td {
+    border: 1px solid black;
+    width: 50%;
+}
